@@ -1,0 +1,26 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Vue Course",
+      "price": 9.99,
+      "description": "Let's learn Vue",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "Java Course",
+      "price": 9.99,
+      "description": "Let's learn Java",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "title": "React Course",
+      "price": 9.99,
+      "description": "Let's learn React",
+      "status": "pending"
+    }
+  ],
+  "enrolled": []
+}
